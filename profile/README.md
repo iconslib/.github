@@ -12,7 +12,7 @@ High quality, optimized, free.
 
 ### Currently supports following frameworks:
 
-- [x] Svelte
+- [x] Svelte 5
 - [ ] SolidJS
 - [ ] Vue
 - [ ] React
